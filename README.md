@@ -42,8 +42,7 @@ Passionnée par l'évolution des infrastructures IT et la protection des donnée
 
 ---
 
-## 📫 Me Contacter
+##  Me Contacter
 
-- 🌐 **Portfolio :** [filiadasilva.github.io/Portfolio](https://filiadasilva.github.io/Portfolio)
-- 💼 **LinkedIn :** [linkedin.com/in/filiadasilva](https://www.linkedin.com/in/filiadasilva)
-- ✉️ **Email :** filiadasilva@yahoo.com
+-  **Portfolio :** [filiadasilva.github.io/Portfolio](https://MyriamFilia.github.io/Portfolio)
+-  **LinkedIn :** [linkedin.com/in/filiadasilva](https://www.linkedin.com/in/filiadasilva)
